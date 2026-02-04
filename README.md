@@ -20,4 +20,4 @@ Requirements
 
 Splunk Enterprise (local install) or Splunk Cloud (free trial)
 
-Downloaded practice log dataset
+Downloaded practice log dataset: bns_practice.csv
