@@ -6,7 +6,7 @@ This repository provides a hands-on, beginner-friendly Splunk project designed t
 
 The project walks learners through ingesting structured logs, extracting meaningful fields, writing SPL queries, building dashboards, and configuring alerts. Each step reflects common security operations and monitoring use cases, helping bridge the gap between theory and practical SOC workflows.
 
-#Project Objectives
+# Project Objectives
 
 Teach Splunk log ingestion and indexing
 
